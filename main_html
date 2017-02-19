@@ -1,0 +1,677 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+
+<!--[if gte mso 9]><xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css">
+<!--
+.ReadMsgBody {
+	width: 100%;
+}
+.ExternalClass {
+	width: 100%;
+}
+.ExternalClass * {
+	line-height: 110%;
+}
+table td {
+	border-collapse: collapse;
+}
+ @-ms-viewport {
+ width: device-width;
+}
+.yahoo {
+	font-size:16px !important;
+}
+
+
+/* iOS and Android Tweek */
+div[style*="margin: 16px 0"] {
+margin:0 !important;
+font-size:100% !important;
+}
+a[x-apple-data-detectors] {
+	color:inherit !important;
+	text-decoration:none !important;
+	font-size:inherit !important;
+	font-family:inherit !important;
+	font-weight:inherit !important;
+	line-height:inherit !important;
+}
+/* iOS and Android Tweek */
+
+/* Emirates Font */
+@font-face {
+font-family: 'EmiratesSM';
+src: url('http://emirates.com/system/responsive/css/fonts/EmiratesSM.eot') format('embedded-opentype'), url('http://emirates.com/system/responsive/css/fonts/EmiratesSM.woff') format('woff'), url('http://emirates.com/system/responsive/css/fonts/EmiratesSM.ttf') format('truetype'), url('http://emirates.com/system/responsive/css/fonts/EmiratesSM.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+/* Emirates Font */
+
+ @media screen and (max-width: 650px) {
+table[id=wrapper] {
+width: 100% !important;
+padding: 0px 0px !important;
+}
+table[id=wrapper] .h0 {
+height: 0 !important;
+}
+table[id=wrapper] .inner {
+width: 100% !important;
+max-width: 650px !important;
+}
+table[id=wrapper] .inner2 {
+width: 280px !important;
+height: 202px !important;
+}
+table[id=wrapper] .inner3 {
+width: 75px !important;
+height: 106px !important;
+}
+table[id=wrapper] .inner3 {
+width: 70px !important;
+height: 45px !important;
+}
+table[id=wrapper] .inner4 {
+width: 70px !important;
+height: 53px !important;
+}
+table[id=wrapper] .show_on_mobile {
+display:block !important;
+width: auto !important;
+max-height: inherit !important;
+overflow : visible !important;
+float : none !important;
+}
+ table[id=wrapper] .line26 {
+line-height:26px !important
+}
+table[id=wrapper] .line17 {
+line-height:17px !important
+}
+table[id=wrapper] .font10 {
+font-size:10px !important;
+}
+table[id=wrapper] .font11 {
+font-size:11px !important;
+}
+table[id=wrapper] .font13 {
+font-size:13px !important;
+}
+table[id=wrapper] .font17 {
+font-size:17px !important;
+}
+table[id=wrapper] .font24 {
+font-size:24px !important;
+}
+table[id=wrapper] .font26 {
+font-size:26px !important;
+line-height:28px !important;
+}
+table[id=wrapper] .font30 {
+font-size:30px !important;
+line-height:32px !important;
+}
+table[id=wrapper] .pad {
+padding:0 20px !important;
+}
+table[id=wrapper] .padmob20 {
+padding:20px !important;
+}
+table[id=wrapper] .h30 {
+height:30px !important;
+}
+table[id=wrapper] .mobbg {
+background:url(http://f.chtah.com/i/39/2093671918/2016_04_ob1_Mobile_hero.jpg) no-repeat center !important;
+background-size:cover !important;
+height:260px !important;
+}
+table[id=wrapper] .nopad {
+padding:0 !important;
+}
+table[id=wrapper] .padt20 {
+padding-top:20px !important;
+}
+table[id=wrapper] .padb20 {
+padding-bottom:20px !important;
+}
+table[id=wrapper] .padt30 {
+padding-top:30px !important;
+}
+table[id=wrapper] .pad5 {
+padding-bottom:5px !important;
+padding-top:5px !important;
+}
+table[id=wrapper] .padr5 {
+padding-right:5px !important;
+}
+table[id=wrapper] .padr10 {
+padding-right:10px !important;
+}
+table[id=wrapper] .pad10 {
+padding-bottom:15px !important;
+padding-top:15px !important;
+}
+table[id=wrapper] .padt10 {
+padding-top:10px !important;
+}
+table[id=wrapper] .padb10 {
+padding-bottom:5px !important;
+}
+table[id=wrapper] .padb30 {
+padding-bottom:30px !important;
+}
+table[id=wrapper] .padl20 {
+padding-left:20px !important;
+}
+table[id=wrapper] .padr0 {
+padding-right:0px !important;
+}
+table[id=wrapper] .padlr5 {
+padding-left:5px !important;
+padding-right:5px !important;
+}
+table[id=wrapper] .heroimg {
+width:280px !important;
+height:120px !important;
+}
+table[id=wrapper] .herotext {
+padding:60px 0 25px 0 !important;
+}
+table[id=wrapper] .hide {
+display:none !important;
+width:0 !important;
+height:0 !important;
+}
+table[id=wrapper] .center {
+text-align:center !important;
+}
+table[id=wrapper] .drop {
+display:block !important;
+width:100% !important;
+}
+table[id=wrapper] .break {
+display:block !important;
+}
+table[id=wrapper] .heightauto {
+height:auto !important;
+}
+table[id=wrapper] .w240 {
+width:240px !important;
+height:auto !important;
+}
+table[id=wrapper] .w280 {
+width:280px !important;
+height:auto !important;
+}
+table[id=wrapper] .w37 {
+width:37px !important;
+height:37px !important;
+}
+table[id=wrapper] .height60 {
+height:60px !important;
+}
+table[id=wrapper] .footer {
+display:block !important;
+padding-top:5px !important;
+}
+table[id=wrapper] .border0 {
+border: 0px !important;
+}
+table[id=wrapper] .newbgcolor {
+background-color:#1d5b91 !important;
+}
+table[id=wrapper] .greyb {
+border:1px solid #b5c4d8 !important;
+}
+img[class=scale] {
+width:100% !important;
+height:auto !important;
+display:block !important;
+}
+table[id=wrapper] .heromobpad {
+padding:20px 0 14px 0 !important;
+}
+table[id=wrapper] .ctabg {
+background-color:#f4f4f4 !important;
+}
+table[id=wrapper] .storyheight, table[id=wrapper] .heightauto {
+height:auto !important;
+}
+ table[id=wrapper] #mob-logo {
+ position:relative;
+ z-index:10;
+ margin-left:20px !important;
+ width:94px !important;
+ height:138px !important;
+ background:url(http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/050_EN_Post-flight_Desktop_Blue_moblogo.jpg) top left no-repeat !important;
+ background-size:contain !important;
+}
+table[id=wrapper] #mob-nav-bg {
+ width:100%;
+ height:64px;
+ background-color:#ffffff;
+ font:bold 12px/64px Helvetica, Arial, sans-serif;
+}
+table[id=wrapper] #mob-nav-text {
+ width:230px;
+ height:67px;
+ margin-top:-95px;
+ margin-left:90px;
+}
+table[id=wrapper] #mob-nav-bg a {
+text-decoration:none;
+color:#333333;
+}
+table[id=wrapper] #mob-nav1 {
+display:inline !important;
+}
+table[id=wrapper] #mob-nav2 {
+display:inline !important;
+}
+table[id=wrapper] #mob-nav3 {
+display:inline !important;
+padding-bottom:40px !important;
+}
+table[id=wrapper] #mob-nav1:before {
+ content:"Account";
+ padding-right:10px;
+}
+table[id=wrapper] #mob-nav2:before {
+ line-height:35px;
+ content:'Benefits';
+ padding-right:10px;
+}
+table[id=wrapper] #mob-nav3:before {
+ content:'Offers';
+ white-space: pre-wrap;
+}
+table[id=wrapper] .nobg {
+ background:none !important;
+}
+table[id=wrapper] #mob_spacer {
+ width:100% !important;
+ max-width:320px !important;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_economy_masthead_mob_spacer_1.png') top center no-repeat !important;
+ background-size:contain !important;
+}
+
+/*mobile image for economy */
+
+table[id=wrapper] #mob-hero {
+ width:100% !important;
+ max-width:650px !important;
+ height: 0;
+ overflow: hidden;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_economy_masthead_mobile.jpg') top center no-repeat !important;
+ background-size:contain !important;
+}
+	
+/*mobile image for business */
+
+table[id=wrapper] #mob-hero2 {
+ width:100% !important;
+ max-width:650px !important;
+ height: 0;
+ overflow: hidden;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_business_masthead_mobile.jpg') top center no-repeat !important;
+ background-size:contain !important;
+}
+
+/*mobile image for amenity */
+
+table[id=wrapper] #mob-hero3 {
+ width:100% !important;
+ max-width:650px !important;
+ height: 0;
+ overflow: hidden;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_amenity_masthead_mobile.jpg') top center no-repeat !important;
+ background-size:contain !important;
+}
+
+/*mobile image for family economy */
+
+table[id=wrapper] #mob-hero4 {
+ width:100% !important;
+ max-width:650px !important;
+ height: 0;
+ overflow: hidden;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_family_masthead_mobile.jpg') top center no-repeat !important;
+ background-size:contain !important;
+}
+
+/*mobile image for family business */
+table[id=wrapper] #mob-hero5 {
+ width:100% !important;
+ max-width:650px !important;
+ height: 0;
+ overflow: hidden;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_family_masthead_mobile.jpg') top center no-repeat !important;
+ background-size:contain !important;
+}
+
+/*mobile image for family & amenity */
+
+table[id=wrapper] #mob-hero6 {
+ width:100% !important;
+ max-width:650px !important;
+ height: 0;
+ overflow: hidden;
+ padding-bottom:70.698034863% !important;
+ background:url('http://f.chtah.com/i/16/2099070104/2016_09_emirates_amenity_masthead_mobile.jpg') top center no-repeat !important;
+ background-size:contain !important;
+}
+
+
+table[id=wrapper] .pad-left0 {
+padding-left:0 !important;
+}
+table[id=wrapper] .wmob {
+width:140px !important;
+height: auto !important;
+}
+table[id=wrapper] .padt15 {
+padding-top:15px !important;
+}
+table[id=wrapper] .padb15 {
+padding-bottom:15px !important;
+}
+table[id=wrapper] .padb20 {
+padding-bottom:20px !important;
+}
+table[id=wrapper] .padl20 {
+padding-left:20px !important;
+}
+table[id=wrapper] .padr20 {
+padding-right:20px !important;
+}
+table[id=wrapper] .ctabg {
+background-color:#f4f4f4 !important;
+}
+table[id=wrapper] #cta {
+width:100% !important;
+padding:10px 0px !important;
+text-align:center !important;
+background-color:#f4f4f4 !important;
+}
+table[id=wrapper] #cta a {
+font-size:15px !important;
+}
+table[id=wrapper] #cta td {
+background:#D52228 !important;
+height:auto !important;
+}
+*[class~=formobile] {
+display:block !important;
+width: auto !important;
+max-height: inherit !important;
+overflow: visible !important;
+float: none !important;
+}
+ table[id=wrapper] .bg2 {
+background-color:#f4f4f4 !important;
+}
+table[id=wrapper] .padlr20 {
+padding-right:20px !important;
+padding-left:20px !important;
+}
+table[id=wrapper] .padlr40 {
+padding-right:40px !important;
+padding-left:40px !important;
+}
+table[id=wrapper] .padlr60 {
+padding-right:60px !important;
+padding-left:60px !important;
+}
+img[class=scale50] {
+width:50% !important;
+height:auto !important;
+display:block !important;
+}
+table[id=wrapper] .bb20 {
+border-bottom: 20px #FFFFFF solid !important;
+}
+table[id=wrapper] .pb20 {
+padding-bottom: 20px !important;
+}
+table[id=wrapper] .bt30 {
+border-top:30px #efefef solid !important;
+}
+table[id=wrapper] .aligncenter {
+align:center !important;
+}
+table[id=wrapper] .font13 {
+font-size:13px !important;
+}
+}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" border="0" margin="0" bottommargin="0" topmargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0" style="-webkit-font-smoothing:antialiased; -webkit-text-size-adjust:none; -ms-text-size-adjust:none; -ms-interpolation-mode: bicubic; bicubic; margin:0; padding:0;"><img src="http://links.emirates.travel/rts/open.aspx?tp=i-H8B-64-Dcc-KQdin-26-2W-3E-G-KQdin-7PBUi" height="1" width="1" style="display:none">
+
+<!--[if mso]> 
+<style> 
+.msofont{ 
+font-family:Helvetica, Arial, Sans-serif-serif !important;} 
+</style>
+<![endif]-->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="wrapper">
+  <tr>
+    <td align="center" bgcolor="#e7e7e7" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    
+    <!----- Skywards & ebase top starts  ------>
+    {[Black Strip Top|241728468]}
+   <!----- Skywards & ebase top ends ------> 
+    
+    
+     
+  
+      </table></td>
+  </tr>
+  
+  <!-- Update with tag from production account --> 
+  <!--  Dyn Content --> 
+  <!-------- header------------->
+  {[Masthead Amenity and Family|193013832]}
+    <!--------header end--------->
+  
+  <tr>
+    <td align="center"><table width="585" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0;" class="inner">
+        <tr>
+          <td align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td class="padb20 padt20 padl20 padr20 font14" align="left" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#333333; font-size:15px; line-height:18px; font-weight:300; padding:30px 20px 5px 20px;">Dear {(title)} {(lastname)},<br />
+                  <br />
+                  Thanks for choosing to fly with Emirates. Before you take off, we thought you might like to explore some of the benefits you can look forward to on your flight.
+                  {[Amenity Dynamic Block|193013842]} </td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  
+  <!----------------------- DYNAMIC SECTIONS BEGIN -----------------------> 
+  
+  <!-- ++SERVICE BLOCK PLACEHOLDER++ --> 
+  
+  <!-- Aircraft Services Dyn Content --> 
+  
+  {[Aircraft Services v2|193013833]}
+  
+  <!------ ++Join Skywards section desktop placeholder++ ------->
+  {[Join Skywards Block|241728471]}
+  
+  <!------ ++Join Skywards section mobile placeholder++ ------->
+  
+  <tr>
+    <td class="nopad" bgcolor="#f0f0f0" align="center"><table width="585" border="0" cellspacing="0" cellpadding="0" class="inner pad">
+        <tr>
+          <td align="center" class="nopad"><table border="0" cellpadding="0" cellspacing="0" width="585" class="inner">
+              <tr>
+                <td align="center" class="padt20 padb20" style="text-align:center; line-height:34px; padding:10px 0;"><h1 class="font24 center" style="padding:0px; margin:0px; font-family:Helvetica, Arial, sans-serif; color:#333333; font-size:24px; font-weight:100;"><span class="msofont">Enjoy a more convenient travel experience</span></h1></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  
+  <!-- Dynamic Layout 3 vs 4 stories --> 
+  
+  {[Dynamic Layout|183087056]}
+  <tr>
+    <td align="center" class="bt30"><table width="582" border="0" align="center" cellpadding="0" cellspacing="0" class="inner">
+        <tr>
+          <td width="582" align="center" bgcolor="#000000"><table border="0" cellspacing="0" cellpadding="0" class="inner">
+              <tr>
+                <td valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;vertical-align:top;"><table align="left" border="0" cellpadding="0" cellspacing="0" width="239" class="inner" style="border-collapse:collapse;border-spacing:0;">
+                    <tr>
+                      <td class="h0 padt20 padr0" width="239" height="74" align="center" valign="middle" style="font-family:Helvetica, Arial, sans-serif; font-size:15px; font-weight:bold; color:#ffffff; padding:3px 20px 0 0;">Download The Emirates App</td>
+                    </tr>
+                  </table>
+                  
+                  <!--[if mso]>
+</td>
+<td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;vertical-align:top;">
+<![endif]-->
+                  
+                  <table align="left" border="0" cellpadding="0" cellspacing="0"  class="inner" style="border-collapse:collapse;border-spacing:0;">
+                    <tr>
+                      <td height="74" align="right" style="padding: 3px 0;" class="nopad"><table border="0" cellpadding="0" cellspacing="0"  class="inner">
+                          <tr>
+                            <td><table border="0" cellspacing="0" cellpadding="0" class="inner">
+                                <tr>
+                                  <td valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;vertical-align:top;"><table align="left" border="0" cellpadding="0" cellspacing="0"  class="inner" style="border-collapse:collapse;border-spacing:0;">
+                                      <tr>
+                                        <td class="padt20" align="center" height="51"><a href="https://itunes.apple.com/app/the-emirates-app/id935307149?mt=8&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" target="_blank"><img src="http://f.chtah.com/i/48/2087456405/2015_09_emirates-app-pass_25.jpg" alt="Download on the App Store" width="161" height="51" style="display:block;" title="Download on the App Store" border="0" /></a></td>
+                                        <td class="hide" width="14" height="51"></td>
+                                      </tr>
+                                    </table>
+                                    
+                                    <!--[if mso]>
+</td>
+<td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;vertical-align:top;">
+<![endif]-->
+                                    
+                                    <table align="right" border="0" cellpadding="0" cellspacing="0"  class="inner" style="border-collapse:collapse;border-spacing:0;">
+                                      <tr>
+                                        <td height="51" align="center" class="pad22 padb20"><a href="https://play.google.com/store/apps/details?id=com.emirates.ek.android&referrer=utm_source%3Dccmp%26utm_medium%3Demail-lc%26utm_term%3D{(fareclass)}%26utm_campaign%3D{(origincountrycode)}_en-preflightproduct" target="_blank"><img src="http://i.email.emirates.travel/wpm/376/Master_templates/triggers/images/GooglePlay.png" alt="Get it on Google play" width="161" height="51" style="display:block;" title="Get it on Google play" border="0" /></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+    <!------- Skywards t&c's start -------->
+ {[bottom-caveat|201208014]}
+  <!------- Skywards t&c's end -------->
+
+  
+   <tr>
+    <td align="center" style="padding: 20px 0;"><table width="582" border="0" align="center" cellpadding="0" cellspacing="0" class="inner">
+        <tr>
+          <td class="padr20"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;vertical-align:top;"><table width="198" border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0;">
+                    <tr>
+                      <td align="left" valign="top" class="padt20 padl20 nobg" style="vertical-align:top; padding-top:3px;"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-Expo2020.jpg" alt="Emirates Premier Partner" width="198" height="98" border="0" style="display:block; font-family:Helvetica, Arial, sans-serif; color:#ffffff; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="Emirates Premier Partner" /></td>
+                    </tr>
+                  </table>
+                  
+                  <!--[if mso]>
+</td>
+<td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;vertical-align:top;">
+<![endif]-->
+                  
+                  <table width="384" border="0" align="left" cellpadding="0" cellspacing="0" class="inner" style="border-collapse:collapse;border-spacing:0;">
+                    <tr>
+                      <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td class="padt20 padl20" align="left" valign="top" style="font-family:Helvetica, Arial, sans-serif; color:#333333; font-size:11px; line-height:15px; padding: 0  0 0 20px;">We can't respond from this account so please don't reply to this email.<br />
+                              You can visit our website if you need to <a href="https://www.emirates.com/english/help/contact-emirates.aspx?pub=autodetect&stop_mobi=yes&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" target="_blank" style="font-weight:bold; color:#333333;">get in touch with us</a>.<br />
+                              <br />
+                              This email has been sent to you by Emirates, a corporation established by Emiri Decree no. 2 of 1985 in Dubai UAE. Corporate headquarters: Emirates Group Headquarters, Airport Road, PO Box 686, Dubai, UAE.<br />
+                              &#169; 2017 Emirates. All rights reserved.</td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td style="padding:24px 0;" bgcolor="#EFEFEF" align="center"><table width="585" border="0" cellspacing="0" cellpadding="0" class="inner pad">
+        <tr>
+          <td align="center"><table width="585" border="0" cellspacing="0" cellpadding="0" align="center" class="inner">
+              <tr> 
+                
+                <!--[if !mso]><!-->
+                
+                <th class="drop padb20 show_on_mobile font13" valign="bottom" width="430" align="left" style="color:#333333; font-family:Helvetica, Arial, Sans-serif; width:0; max-height:0; overflow:hidden; float:left; display:none; font-size:0px;"><a href="http://forms.emirates.travel/ats/msg.aspx?sg1={(URLSignature1)}" title="View Online Version" style="color:#333333; font-weight:bold;" class="footer">View Online Version</a><a href="https://www.emirates.com/english/flying/adding-emirates-to-your-safe-sender-list.aspx?pub=autodetect&stop_mobi=yes&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="Add Emirates to your safe senders list" style="color:#333333; font-weight:bold;" class="footer">Add Emirates to your safe senders list</a><a href="https://www.emirates.com/english/help/contact-emirates.aspx?pub=autodetect&stop_mobi=yes&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="Contact Us" style="color:#333333; font-weight:bold;" class="footer">Contact Us</a><span class="hide"> &nbsp; | &nbsp; </span><a href="http://www.emirates.com/english/sitetools/privacy_policy.aspx?pub=autodetect&stop_mobi=yes&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View our Privacy Policy" style="color:#333333; font-weight:bold;" class="footer">Privacy Policy</a></th>
+                
+                <!--<![endif]-->
+                
+                <td class="hide" valign="bottom" width="400" align="center" style="color:#333333; font-family:Helvetica, Arial, Sans-serif; font-size:11px; text-align:left; padding-left:20px;"><a href="https://www.emirates.com/english/help/contact-emirates.aspx?pub=autodetect&stop_mobi=yes&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" target="_blank" title="Contact Us" style="color:#333333; font-weight:bold;">Contact Us</a><span> &nbsp; | &nbsp; </span><a href="http://www.emirates.com/english/sitetools/privacy_policy.aspx?pub=autodetect&stop_mobi=yes&utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" target="_blank" title="View our Privacy Policy" style="color:#333333; font-weight:bold;">Privacy Policy</a></td>
+                <th class="drop" align="left" style="font-weight:normal;"><table width="170" border="0" cellspacing="0" cellpadding="0" class="inner">
+                    <tr>
+                      <td align="left" class="font13" style="color:#333333; font-family:Helvetica, Arial, Sans-serif; font-size:11px; text-align:left; padding-bottom:5px;">Follow Emirates</td>
+                    </tr>
+                    <tr>
+                      <td align="left"><table width="170" border="0" cellspacing="0" cellpadding="0" class="w280">
+                          <tr>
+                            <td><a href="https://www.facebook.com/Emirates?utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View Emirates Facebook page" target="_blank"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-Facebook.png" alt="f" width="22" height="22" border="0" style="display:block; font-family:Helvetica, Arial, sans-serif; font-size:16px; text-align:center; color:#999999; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="f" class="width36 heightauto" /></a></td>
+                            <td><a href="https://twitter.com/emirates?utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View Emirates Twitter page" target="_blank"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-Twitter.png" alt="t" width="22" height="22" border="0" style="display:block;  font-family:Helvetica, Arial, sans-serif; font-size:16px; text-align:center; color:#999999; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="t" class="width36 heightauto" /></a></td>
+                            <td><a href="https://plus.google.com/+emirates?utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View Emirates Google+ page" target="_blank"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-GooglePlus.png" alt="g+" width="22" height="22" border="0" style="display:block;  font-family:Helvetica, Arial, sans-serif; font-size:16px; text-align:center; color:#999999; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="g+" class="width36 heightauto" /></a></td>
+                            <td><a href="https://www.linkedin.com/company/emirates?utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View Emirates LinkedIn page" target="_blank"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-LinkedIn.png" alt="in" width="22" height="22" border="0" style="display:block; font-family:Helvetica, Arial, sans-serif; font-size:16px; text-align:center; color:#999999; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="in" class="width36 heightauto" /></a></td>
+                            <td><a href="https://www.youtube.com/user/EMIRATES?utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View Emirates YouTube page" target="_blank"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-YouTube.png" alt="yt" width="22" height="22" border="0" style="display:block; font-family:Helvetica, Arial, sans-serif; font-size:16px; text-align:center; color:#999999; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="yt" class="width36 heightauto" /></a></td>
+                            <td><a href="https://www.instagram.com/emirates/?hl=en?utm_campaign={(origincountrycode)}_en-preflightproduct&utm_source=ccmp&utm_medium=email-lc&utm_term={(fareclass)}&tp={(TrackingParams)}" title="View Emirates Instagram page" target="_blank"><img src="http://namwpm.eccmp.com/wpm/376/Master_templates/triggers/images/Skywards-Welcome-to-Gold-Tier-Footer-Instagram.png" alt="i" width="22" height="22" border="0" style="display:block; font-family:Helvetica, Arial, sans-serif; font-size:16px; text-align:center; color:#999999; text-decoration:none; -ms-interpolation-mode: bicubic; white-space: pre;" title="i" class="width36 heightauto" /></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></th>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td class="hide" align="center" bgcolor="#f7f7f7"><table width="624" border="0" cellspacing="0" cellpadding="0" class="inner pad">
+        <tr>
+          <td class="hide"><table cellpadding="0" cellspacing="0" border="0" align="center" width="624">
+              <tr>
+                <td cellpadding="0" cellspacing="0" border="0" style="line-height:1px;" height="1"><img src="http://f.chtah.com/i/48/2087456405/spacer.gif" alt="" width="624" height="1" border="0" style="max-height:1px; min-height:1px; display:block; width:624px; min-width:624px;"/></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<div style="display:none; white-space:nowrap; font-size:15px courier; color:#f7f7f7;">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+{[Boxever Service OptOut|183008591]}
+</body>
+</html>
